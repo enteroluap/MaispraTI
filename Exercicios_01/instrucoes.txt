@@ -1,0 +1,5 @@
+Para executar o código localmente (VSCode):
+
+1 - Instalar o Code Runner
+2 - Instalar o Prompt-sync (npm install prompt-sync)
+3 - Executar no terminal do VSCode
